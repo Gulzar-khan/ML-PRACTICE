@@ -1,2 +1,2 @@
-# ML-PRACTICE
+# ML-PRACTICEE
 Daily Machine Learning mini projects Practice.....
